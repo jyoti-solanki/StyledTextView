@@ -1,0 +1,3 @@
+rootProject.name = "StyledTextView"
+include ':app'
+include ':library'

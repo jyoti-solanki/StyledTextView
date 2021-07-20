@@ -1,0 +1,27 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\android\jyoti\appNew\StyledTextView\library\AndroidManifest.xml:1:1-5:12
+INJECTED from D:\android\jyoti\appNew\StyledTextView\library\AndroidManifest.xml:1:1-5:12
+INJECTED from D:\android\jyoti\appNew\StyledTextView\library\AndroidManifest.xml:1:1-5:12
+	package
+		ADDED from D:\android\jyoti\appNew\StyledTextView\library\AndroidManifest.xml:2:5-47
+		INJECTED from D:\android\jyoti\appNew\StyledTextView\library\AndroidManifest.xml
+		INJECTED from D:\android\jyoti\appNew\StyledTextView\library\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\android\jyoti\appNew\StyledTextView\library\AndroidManifest.xml:1:11-69
+application
+ADDED from D:\android\jyoti\appNew\StyledTextView\library\AndroidManifest.xml:4:5-20
+uses-sdk
+INJECTED from D:\android\jyoti\appNew\StyledTextView\library\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\android\jyoti\appNew\StyledTextView\library\AndroidManifest.xml
+INJECTED from D:\android\jyoti\appNew\StyledTextView\library\AndroidManifest.xml
+INJECTED from D:\android\jyoti\appNew\StyledTextView\library\AndroidManifest.xml
+INJECTED from D:\android\jyoti\appNew\StyledTextView\library\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\android\jyoti\appNew\StyledTextView\library\AndroidManifest.xml
+		ADDED from D:\android\jyoti\appNew\StyledTextView\library\AndroidManifest.xml
+		INJECTED from D:\android\jyoti\appNew\StyledTextView\library\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\android\jyoti\appNew\StyledTextView\library\AndroidManifest.xml
+		ADDED from D:\android\jyoti\appNew\StyledTextView\library\AndroidManifest.xml
+		INJECTED from D:\android\jyoti\appNew\StyledTextView\library\AndroidManifest.xml
